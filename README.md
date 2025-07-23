@@ -2,3 +2,6 @@
 live training
 
 
+### Build docker container
+'docker build .'
+'docker image ls'
