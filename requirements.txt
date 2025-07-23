@@ -6,3 +6,6 @@ numpy
 wikipedia
 ipython
 fire
+fastapi
+pydantic
+uvicorn
